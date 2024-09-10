@@ -1166,5 +1166,5 @@ nav#filter li {
 
 html, body {
     overflow-y: auto;
-    height: 100%;
+    height: auto;
 }
