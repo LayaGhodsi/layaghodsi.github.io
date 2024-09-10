@@ -1162,3 +1162,9 @@ nav#filter li {
 	user-select: none;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
+
+html, body {
+    overflow-y: auto;
+    height: 100%;
+}
